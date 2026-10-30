@@ -1,12 +1,18 @@
 # Green Bikes
 
-Green Bikes is a fictional bicycle rental company.
+Green Bikes is a fictional company dedicated to renting bicycles in the city centre.
 
-Our company offers electric bikes and mountain bikes for people who want to explore the city.
+We offer electric and mountain bikes for everyone.
 
-## Technologies used
-- HTML
-- CSS
+## Technologies
+
+- HTML5
+- CSS3
 
 ## How to open the website
-Open the index.html file with your web browser.
+
+Download or clone this repository and open the `index.html` file in any web browser.
+
+## GitHub repository
+
+https://github.com/JUANJOMARTINEZ1/ed-git-website
